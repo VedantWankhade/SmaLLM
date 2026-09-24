@@ -1,0 +1,2 @@
+# smallm
+A small LLM.
