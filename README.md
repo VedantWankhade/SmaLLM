@@ -1,2 +1,2 @@
-# smallm
-A small LLM.
+# SmaLLM
+A small LLM built from scratch.
